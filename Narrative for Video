@@ -1,0 +1,5 @@
+The circle is the health pack, which can heal you up to max health at 100 once you collide with them, and will disappear when collision.
+The cube is the enemy, you can shoot projectile by left mouse click and eliminate them to earn 100 points. If you collide with enemy they will disappear too, but you will gain no points and deduct 10 health.
+If you pass through the hole, you will earn 100 points too, but if you pass through obstacle, no points will be earned and 10 health will be deducted.
+You will gradually accelerate and you will die once your health drop to 0, then all speed and score will be reset. And can restart game by left mouse click.
+Special feature is game will keep track of your highest score.
